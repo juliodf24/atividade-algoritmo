@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    printf("---------------------------------\n");
+    printf("-------------teste--------------------\n");
     printf("        Gerador de senha     \n");
     printf("---------------------------------\n\n");
     printf("1- gerar senha de 4 caracteres\n");
