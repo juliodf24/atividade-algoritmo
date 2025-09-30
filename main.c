@@ -6,7 +6,7 @@ int gerarNumeroAleatorio(int min, int max){
     int x = min + rand() % (max - min + 1);
     return x;
 }
-
+// teste 
 void preencherSenha(char *enderecoSenha, int tamanho, int numero, int letraMinuscula, int letraMaiuscula, int caractereEspecial){
     char *senha = enderecoSenha;
     int Vnumero = 0, VletraMaiuscula = 0, VletraMinuscula = 0, VcaractereEspecial = 0;
