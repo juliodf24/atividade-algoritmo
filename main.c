@@ -122,6 +122,7 @@ int main(void){
         erro = 1;
     }
     erro = 0;
+    system("clear");
     printf("---------------------------------\n");
     printf("        Gerador de senha     \n");
     printf("---------------------------------\n\n");
